@@ -1,4 +1,2 @@
-spring:
-  data:
-    mongodb: 
-      uri: mongodb://localhost:27017/gallerydb111
+testProperty:
+ field: 123456-dev
